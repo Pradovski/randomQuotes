@@ -4,9 +4,9 @@ body {
 }
 
 #title {
+  color: cyan;
   font-family: Yellowtail;
   font-size: 75px;
-  color: cyan;
 }
 
 #talkbubble {
@@ -24,23 +24,26 @@ body {
 }
 
 #author {
-  font-size: 30px;
   font-family: Yellowtail;
+  font-size: 30px;
 }
 
 #quote {
-  font-size: 40px;
   font-family: "Times new roman";
+  font-size: 40px;
 }
 
 #getQuote {
-  margin: 0px;
-  background-color: black;
-  color: white;
+  font-family: "Helvetica Neue";
+  color: #FFF;
+  background-color: #000;
+  margin-bottom: 15px;
 }
 
 #getTweet {
-  margin: 0px;
-  color: white;
+  font-family: "Helvetica Neue";
+  color: #FFF;
   background-color: #00aced;
+  margin-bottom: 15px;
+  margin-left: 10px;
 }
