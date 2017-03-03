@@ -2,9 +2,6 @@
     $('#getQuote').on('click',function() {
       newQuote();
     })
-    $('#getTweet').on('click',function() {
-      newTweet();
-    })
   });
 
 
